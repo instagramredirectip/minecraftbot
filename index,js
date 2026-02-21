@@ -20,9 +20,9 @@ app.listen(port, () => {
 // 2. MINECRAFT BOT LOGIC
 // ==========================================
 const serverConfig = {
-    host: 'YOUR_SERVER_NAME.aternos.me', // Replace with your Aternos IP
+    host: 'home-IVLn.aternos.me', // Replace with your Aternos IP
     // Mineflayer automatically resolves Aternos SRV ports, so you usually don't need a port here!
-    username: '247_Guard', // The name of your bot
+    username: 'Sura', // The name of your bot
     version: false // Automatically detects your server's version
 };
 
